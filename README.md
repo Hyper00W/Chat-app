@@ -35,5 +35,6 @@ A simple **terminal-based real-time chat application** built with **Python**, de
    - Sends user-typed messages to the server.
 
 
-git clone https://github.com/yourusername/python-chat-app.git
-cd python-chat-app
+git clone https://github.com/Hyper00W/Chat-app.git
+)
+cd chat-app
